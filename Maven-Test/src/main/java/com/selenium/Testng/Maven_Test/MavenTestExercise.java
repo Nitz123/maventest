@@ -14,6 +14,8 @@ public class MavenTestExercise {
 		driver.get("https://connect.maveric-systems.com/");
 		//maveric project
 		driver.findElement(By.xpath("login")).sendKeys("Nithins");
+		driver.findElement(By.xpath("login")).sendKeys("asfasfsdf");
+
 
 	}
 
