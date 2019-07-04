@@ -16,7 +16,8 @@ public class MavenTestExercise {
 		driver.findElement(By.xpath("login")).sendKeys("Nithins");
 		driver.findElement(By.xpath("login")).sendKeys("asfasfsdf");
 
-
+		driver.findElement(By.xpath("login")).sendKeys("asfasfsdf");
+		
 	}
 
 }
