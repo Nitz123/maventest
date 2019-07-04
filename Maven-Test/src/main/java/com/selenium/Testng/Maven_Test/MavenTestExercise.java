@@ -11,7 +11,7 @@ public class MavenTestExercise {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Administrator\\Desktop\\Chrome\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://connect.maveric-systems.com/");
-
+		//maveric project
 
 	}
 
